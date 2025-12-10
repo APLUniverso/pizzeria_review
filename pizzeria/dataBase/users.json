@@ -1,0 +1,75 @@
+{
+    "Jf": {
+        "nombre": "juan",
+        "direccion": "dfs",
+        "telefono": "asfreg",
+        "hola": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 1,
+                "adiccion": null,
+                "frecuencia": 1
+            }
+        ],
+        "pedido joel": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 1,
+                "adiccion": null,
+                "frecuencia": 1
+            }
+        ],
+        "pedido cool": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 2,
+                "adiccion": 1,
+                "frecuencia": 1
+            }
+        ],
+        "pedido debug": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 1,
+                "adiccion": 1,
+                "frecuencia": 1
+            }
+        ]
+    },
+    "st": {
+        "nombre": "stiven cuarzo rosa",
+        "direccion": "la casa de la playa",
+        "telefono": "15413184151"
+    },
+    "Tl": {
+        "nombre": "tilinaso",
+        "direccion": "la papu casa",
+        "telefono": "5451354"
+    },
+    "Mr": {
+        "nombre": "mariana",
+        "direccion": "la casa de mariana",
+        "telefono": "1454654321",
+        "pedidos cool": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 1,
+                "adiccion": null,
+                "frecuencia": 1
+            }
+        ]
+    },
+    "Cp": {
+        "nombre": "compabrito",
+        "direccion": "el choco",
+        "telefono": "0541646984",
+        "pedido del choco": [
+            {
+                "tama\u00f1o": 1,
+                "sabor": 1,
+                "adiccion": 1,
+                "frecuencia": 1
+            }
+        ]
+    }
+}
